@@ -49,9 +49,9 @@ Designed and built in just 3 days as a personal coding challenge, this project a
 4. **Build for production**
    ```bash
    npm run build
-5. **Deployment**
+5. **Deployment**: 
    This project is deployed using Vercel:
-👉 https://studify-pearl.vercel.app
+👉 [https://studify-pearl.vercel.app](https://studify-pearl.vercel.app)]
 
    ---
 ## 🤖 AI Support Explanation
