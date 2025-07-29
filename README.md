@@ -14,7 +14,7 @@ Studify serves as a personal productivity assistant that allows users to:
 - Write and track their tasks using a built-in notes feature
 - Stay motivated and avoid burnout using proven time management methods
 
-Designed and built in just 3 days as a personal coding challenge, this project aims to demonstrate both technical skill and creative problem-solving using modern tools.
+Designed and built in as a personal coding challenge, this project aims to demonstrate both technical skill and creative problem-solving using modern tools, especially AI.
 
 ---
 
@@ -72,7 +72,8 @@ This project demonstrates not just my technical implementation skills, but also 
 ## 👩‍💻 Author
 
 **Afira**  
-📍 *Frontend & AI enthusiast | Informatics student*  
+📍 *First year informatics student*
+🔗 Instatgram: [https://instagram.com/annxie.ty](https://instagram.com/annxie.ty)
 🔗 GitHub: [https://github.com/Afira911](https://github.com/Afira911)  
 
 ---
