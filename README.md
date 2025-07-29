@@ -50,10 +50,9 @@ Designed and built in just 3 days as a personal coding challenge, this project a
    ```bash
    npm run build
 5. **Deployment**
-   ```bash
-   git clone https://github.com/your-username/studify.git
-   cd studify
-   
+   This project is deployed using Vercel:
+👉 https://studify-pearl.vercel.app
+
    ---
 ## 🤖 AI Support Explanation
 
