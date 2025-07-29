@@ -59,7 +59,7 @@ Designed and built in as a personal coding challenge, this project aims to demon
 As a beginner coder, I relied heavily on AI tools throughout this project to guide my learning and development process:
 
 - 🧠 **ChatGPT** – Helped me create a detailed step-by-step development plan and guided the structure of each feature
-- 🧩 **Granite** – Assisted in generating functional code snippets from modular ideas
+- 🧩 **IBM Granite** – Assisted in generating functional code snippets from modular ideas
 - 🔄 **Blackbox** – Enabled me to extract and refactor code from related open-source repositories
 
 I also documented my process visually and can include supporting images showing how I integrated these tools to turn a simple idea into a functioning application.  
