@@ -49,9 +49,9 @@ Designed and built in as a personal coding challenge, this project aims to demon
 4. **Build for production**
    ```bash
    npm run build
-5. **Deployment**: 
-   This project is deployed using Vercel:
-👉 [https://studify-pearl.vercel.app](https://studify-pearl.vercel.app)]
+5. **Deployment**
+   This project is deployed using Vercel
+   👉 [https://studify-pearl.vercel.app](https://studify-pearl.vercel.app)]
 
    ---
 ## 🤖 AI Support Explanation
@@ -62,7 +62,8 @@ As a beginner coder, I relied heavily on AI tools throughout this project to gui
 - 🧩 **Granite** – Assisted in generating functional code snippets from modular ideas
 - 🔄 **Blackbox** – Enabled me to extract and refactor code from related open-source repositories
 
-I also documented my process visually and can include supporting images showing how I integrated these tools to turn a simple idea into a functioning application.
+I also documented my process visually and can include supporting images showing how I integrated these tools to turn a simple idea into a functioning application.  
+
 ![GPT](./public/gptSS.png) ![Granite](./public/graniteSS.png)![Blackbox](./public/blackboxSS.png)
 
 This project demonstrates not just my technical implementation skills, but also how AI tools can empower self-learning and accelerate development, especially for those just starting in the tech world.
@@ -72,8 +73,8 @@ This project demonstrates not just my technical implementation skills, but also 
 ## 👩‍💻 Author
 
 **Afira**  
-📍 *First year informatics student*
-🔗 Instatgram: [https://instagram.com/annxie.ty](https://instagram.com/annxie.ty)
+📍 *First year informatics student*  
+🔗 Instatgram: [https://instagram.com/annxie.ty](https://instagram.com/annxie.ty)  
 🔗 GitHub: [https://github.com/Afira911](https://github.com/Afira911)  
 
 ---
