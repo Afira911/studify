@@ -1,62 +1,82 @@
 # 📚 Studify
 
-**Studify** is a minimalist web-based productivity app designed to help users focus and manage their study sessions.  
-It combines the **Pomodoro technique** with a simple **to-do note system**, built using modern web technologies and enhanced with optional AI-driven features.
+**Studify** is a clean and minimal Single Page Application (SPA) built to help users manage their study sessions more effectively.  
+It combines the popular **Pomodoro Technique** with a lightweight **Notes Tracker** for managing to-do lists during focused learning.  
+Whether you're preparing for exams, tackling coding projects, or simply trying to stay productive, Studify is your go-to tool for structured time management and organization.
 
 ---
 
-## 💡 Description
+## 🔍 Description
 
-This project was created as a 3-day challenge to build a functional Single Page Application (SPA) using React.  
-The core idea is to help students or professionals maintain focus and productivity through:
-- Structured study sessions (Pomodoro method)
-- Personalized task list
+Studify serves as a personal productivity assistant that allows users to:
+
+- Break down study time into 25-minute focused sessions with short breaks
+- Write and track their tasks using a built-in notes feature
+- Stay motivated and avoid burnout using proven time management methods
+
+Designed and built in just 3 days as a personal coding challenge, this project aims to demonstrate both technical skill and creative problem-solving using modern tools.
 
 ---
 
 ## 🛠️ Technologies Used
 
-- ⚛️ **React.js** — Frontend library for building UI components  
-- ⚡ **Vite** — Fast bundler for development  
-- 🎨 **CSS / Tailwind CSS** — Styling (choose one depending on what you used)  
-- ☁️ **Vercel** — Deployment platform  
-- 🗂️ **Git + GitHub** — Version control and source code management  
+- ⚛️ **React** – Frontend framework for building dynamic user interfaces
+- ⚡ **Vite** – Next-generation frontend tooling for fast builds and hot reloads
+- 🎨 **CSS** – Styling and layout
+- ☁️ **Vercel** – Seamless deployment and hosting
 
 ---
 
 ## ✨ Features
 
-- 🕒 **Pomodoro Timer** (25-minute focus / 5-minute break cycle)
-- 📝 **Note Tracker** / Note Tracker
+- 🕒 **Pomodoro Timer** — 25 minutes work, 5 minutes break cycle
+- 📝 **Notes Tracker** — Simple to-do list for task management
 
 ---
 
 ## ⚙️ Setup Instructions
 
 1. **Clone the repository**
-   -git clone https://github.com/your-username/studify.git
-   -cd studify
+   ```bash
+   git clone https://github.com/your-username/studify.git
+   cd studify
 2. **Install dependencies**
-   -npm install
-3. **Run locally**
-   -npm run dev
+   ```bash
+   npm install
+3. **Start the development server**
+   ```bash
+   npm run dev
 4. **Build for production**
-   -npm run build
-5. **Deploy**
-   -Automatically deployed via Vercel: https://studify-pearl.vercel.app
-
+   ```bash
+   npm run build
+5. **Deployment**
+   ```bash
+   git clone https://github.com/your-username/studify.git
+   cd studify
+   
    ---
-
 ## 🤖 AI Support Explanation
+
+As a beginner coder, I relied heavily on AI tools throughout this project to guide my learning and development process:
+
+- 🧠 **ChatGPT** – Helped me create a detailed step-by-step development plan and guided the structure of each feature
+- 🧩 **Granite** – Assisted in generating functional code snippets from modular ideas
+- 🔄 **Blackbox** – Enabled me to extract and refactor code from related open-source repositories
+
+I also documented my process visually and can include supporting images showing how I integrated these tools to turn a simple idea into a functioning application.
+![GPT](./public/gptSS.png) ![Granite](./public/graniteSS.png)![Blackbox](./public/blackboxSS.png)
+
+This project demonstrates not just my technical implementation skills, but also how AI tools can empower self-learning and accelerate development, especially for those just starting in the tech world.
 
 ---
 
-## 🔗 Live Demo
-👉 https://studify-pearl.vercel.app
+## 👩‍💻 Author
 
+**Afira**  
+📍 *Frontend & AI enthusiast | Informatics student*  
+🔗 GitHub: [https://github.com/Afira911](https://github.com/Afira911)  
 
-## 🙋 Author
-Afira – LinkedIn | GitHub
--Feel free to fork, clone, or contribute!
+---
 
+⭐ If you're a fellow learner or just someone looking for a simple study tool, feel free to **fork**, **clone**, or **contribute**!
 
