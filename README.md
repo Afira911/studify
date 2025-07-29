@@ -50,8 +50,8 @@ Designed and built in as a personal coding challenge, this project aims to demon
    ```bash
    npm run build
 5. **Deployment**
-   This project is deployed using Vercel
-   👉 [https://studify-pearl.vercel.app](https://studify-pearl.vercel.app)
+- This project is deployed using Vercel
+ 👉 [https://studify-pearl.vercel.app](https://studify-pearl.vercel.app)
 
    ---
 ## 🤖 AI Support Explanation
