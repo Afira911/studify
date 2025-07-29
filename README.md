@@ -34,16 +34,16 @@ The core idea is to help students or professionals maintain focus and productivi
 ## ⚙️ Setup Instructions
 
 1. **Clone the repository**
-   git clone https://github.com/your-username/studify.git
-   cd studify
+   -git clone https://github.com/your-username/studify.git
+   -cd studify
 2. **Install dependencies**
-   npm install
+   -npm install
 3. **Run locally**
-   npm run dev
+   -npm run dev
 4. **Build for production**
-   npm run build
+   -npm run build
 5. **Deploy**
-   Automatically deployed via Vercel: https://studify-pearl.vercel.app
+   -Automatically deployed via Vercel: https://studify-pearl.vercel.app
 
    ---
 
@@ -57,6 +57,6 @@ The core idea is to help students or professionals maintain focus and productivi
 
 ## 🙋 Author
 Afira – LinkedIn | GitHub
-Feel free to fork, clone, or contribute!
+-Feel free to fork, clone, or contribute!
 
 
