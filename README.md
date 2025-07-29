@@ -1,12 +1,62 @@
-# React + Vite
+# 📚 Studify
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**Studify** is a minimalist web-based productivity app designed to help users focus and manage their study sessions.  
+It combines the **Pomodoro technique** with a simple **to-do note system**, built using modern web technologies and enhanced with optional AI-driven features.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 💡 Description
 
-## Expanding the ESLint configuration
+This project was created as a 3-day challenge to build a functional Single Page Application (SPA) using React.  
+The core idea is to help students or professionals maintain focus and productivity through:
+- Structured study sessions (Pomodoro method)
+- Personalized task list
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🛠️ Technologies Used
+
+- ⚛️ **React.js** — Frontend library for building UI components  
+- ⚡ **Vite** — Fast bundler for development  
+- 🎨 **CSS / Tailwind CSS** — Styling (choose one depending on what you used)  
+- ☁️ **Vercel** — Deployment platform  
+- 🗂️ **Git + GitHub** — Version control and source code management  
+
+---
+
+## ✨ Features
+
+- 🕒 **Pomodoro Timer** (25-minute focus / 5-minute break cycle)
+- 📝 **Note Tracker** / Note Tracker
+
+---
+
+## ⚙️ Setup Instructions
+
+1. **Clone the repository**
+   git clone https://github.com/your-username/studify.git
+   cd studify
+2. **Install dependencies**
+   npm install
+3. **Run locally**
+   npm run dev
+4. **Build for production**
+   npm run build
+5. **Deploy**
+   Automatically deployed via Vercel: https://studify-pearl.vercel.app
+
+   ---
+
+## 🤖 AI Support Explanation
+
+---
+
+## 🔗 Live Demo
+👉 https://studify-pearl.vercel.app
+
+
+## 🙋 Author
+Afira – LinkedIn | GitHub
+Feel free to fork, clone, or contribute!
+
+
