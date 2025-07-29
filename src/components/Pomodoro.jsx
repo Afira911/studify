@@ -250,7 +250,7 @@ const Pomodoro = () => {
           <h1>ALL POMODORO SESSIONS COMPLETED!</h1>
           <p>You Finally Finish The Session Of</p>
           <p><strong>{task}</strong></p>
-          <img src="./assets/tomatoCelebrate.gif" alt="Pomodoro Celebrate" />
+          <img src="./assets/tomatoCelebrate.png" alt="Pomodoro Celebrate" />
           <button
             className="main-btn"
             onClick={() => {
